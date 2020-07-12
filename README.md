@@ -1,4 +1,4 @@
-# Python-and-Machine-Learning
+# Machine Learning Examples
 Machine Learning Examples from the course "Fundamentals of Signal Processing" using Python and Anaconda.
 
 ## Prerequisites
