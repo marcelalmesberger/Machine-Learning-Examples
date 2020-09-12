@@ -1,6 +1,10 @@
 # Machine Learning Examples
 Machine Learning Examples from the course "Fundamentals of Signal Processing" using Python and Anaconda.
 
+## Used technologies
+
+Python, Anaconda, Jupyter Lab, Numpy, Pandas, Scikit Learn, Seaborn
+
 ## Prerequisites
 
 1. Install [Anaconda](https://www.anaconda.com/products/individual) on your computer.
